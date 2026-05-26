@@ -21,5 +21,5 @@ public class Validador {
     public static boolean telefonoValido(String telefono) {
         return telefono.matches("\\d+");
     }
-    
+
 }
